@@ -1,2 +1,2 @@
 # product-preview-card
-Beginner Frontend Mentor challenge
+Product preview card component challenge from Frontend Mentor
